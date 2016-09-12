@@ -1,0 +1,233 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="HiQExcelRobot" GeneratedClassName="Konton">
+  <Profiles />
+  <Settings>
+    <Setting Name="Maximized" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="KontoMyndig" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Kärnkonto I Privat&lt;/string&gt;
+  &lt;string&gt;Kärnkonto II Privat&lt;/string&gt;
+  &lt;string&gt;Kärnkonto Student&lt;/string&gt;
+  &lt;string&gt;Servicekonto&lt;/string&gt;
+  &lt;string&gt;E-sparkonto&lt;/string&gt;
+  &lt;string&gt;Österlenkonto&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="KontoOmyndig" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Kompiskonto&lt;/string&gt;
+  &lt;string&gt;E-sparkonto&lt;/string&gt;
+  &lt;string&gt;Österlenkonto&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="IntBankMyndig" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Internetbank Privat (BankID)&lt;/string&gt;
+  &lt;string&gt;Internetbank Privat (SydID)&lt;/string&gt;
+  &lt;string&gt;Internetbank Bas (BankID)&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="IntBankOmyndig" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Internetbank Ung (BankID)&lt;/string&gt;
+  &lt;string&gt;Internetbank Ung (SydID)&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="Labels" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Kundnummer&lt;/string&gt;
+  &lt;string&gt;Konto1&lt;/string&gt;
+  &lt;string&gt;Konto2&lt;/string&gt;
+  &lt;string&gt;Konto3&lt;/string&gt;
+  &lt;string&gt;Internetbank&lt;/string&gt;
+  &lt;string&gt;Telefonbank&lt;/string&gt;
+  &lt;string&gt;VISA&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ChkGemDisp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Gemensam disprätt förmyndare</Value>
+    </Setting>
+    <Setting Name="ChkOmyndigDisp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Omyndig disprätt</Value>
+    </Setting>
+    <Setting Name="ChkCoreAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Kärnkontopaket</Value>
+    </Setting>
+    <Setting Name="LblConnectedAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Kopplat konto</Value>
+    </Setting>
+    <Setting Name="LblCustodian1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Förmyndare 1</Value>
+    </Setting>
+    <Setting Name="LblCustodian2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Förmyndare 2</Value>
+    </Setting>
+    <Setting Name="lblAccountCoowner" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Medkontohavare</Value>
+    </Setting>
+    <Setting Name="ExcelFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">C:\Temp\</Value>
+    </Setting>
+    <Setting Name="RobotFilePath" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Robot.exe</Value>
+    </Setting>
+    <Setting Name="ecPersNbr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">2;Kundnummer</Value>
+    </Setting>
+    <Setting Name="ecPersNbrCareT1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">3;Kundnummer Förmyndare 1</Value>
+    </Setting>
+    <Setting Name="ecPersNbrCareT2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">4;Kundnummer Förmyndare 1</Value>
+    </Setting>
+    <Setting Name="ecKonto1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">5;Konto 1</Value>
+    </Setting>
+    <Setting Name="ecKonto1Coown" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">6;Konto 1 Medkontohavare</Value>
+    </Setting>
+    <Setting Name="ecKonto1ComDisp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">8;Konto 1 Gemensam Disp</Value>
+    </Setting>
+    <Setting Name="ecKonto1Minor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">9;Konto 1 Omyndig Disprätt</Value>
+    </Setting>
+    <Setting Name="ecKonto2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">10;Konto 2</Value>
+    </Setting>
+    <Setting Name="ecKonto2Coown" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">11;Konto 2 Medkontohavare</Value>
+    </Setting>
+    <Setting Name="ecKonto2ComDisp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">13;Konto 2 Gemensam Disp</Value>
+    </Setting>
+    <Setting Name="ecKonto2Minor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">14;Konto 2 Omyndig Disprätt</Value>
+    </Setting>
+    <Setting Name="ecKonto3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">15;Konto 3</Value>
+    </Setting>
+    <Setting Name="ecKonto3Coown" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">16;Konto 3 Medkontohavare</Value>
+    </Setting>
+    <Setting Name="ecKonto3ComDisp" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">18;Konto 3 Gemensam Disp</Value>
+    </Setting>
+    <Setting Name="ecKonto3Minor" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">19;Konto 3 Omyndig Disprätt</Value>
+    </Setting>
+    <Setting Name="ecInternetbank" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">20;Internetbank</Value>
+    </Setting>
+    <Setting Name="ecInternetbankCore" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">22;Internetbank Kärnkonto</Value>
+    </Setting>
+    <Setting Name="ecInternetbankConn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">23;Internetbank Kopplad Konto</Value>
+    </Setting>
+    <Setting Name="ecPhonebank" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">24;Telefonbank</Value>
+    </Setting>
+    <Setting Name="ecPhonebankConn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">25;Telefonbank Kopplad Konto</Value>
+    </Setting>
+    <Setting Name="ecVisa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">26;VISA</Value>
+    </Setting>
+    <Setting Name="ecVisaConn" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">27;VISA Kopplad Konto</Value>
+    </Setting>
+    <Setting Name="lblMyndig" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Myndig</Value>
+    </Setting>
+    <Setting Name="lblOmyndig" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Omyndig</Value>
+    </Setting>
+    <Setting Name="ecAccountType" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">1;Kontotyp</Value>
+    </Setting>
+    <Setting Name="ShowExcel" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">False</Value>
+    </Setting>
+    <Setting Name="StartRobot" Type="System.Boolean" Scope="Application">
+      <Value Profile="(Default)">True</Value>
+    </Setting>
+    <Setting Name="ecFiktiv" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">28;Fiktiv</Value>
+    </Setting>
+    <Setting Name="ChkOrderTfnBank" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Upprätta Telefonbank</Value>
+    </Setting>
+    <Setting Name="ChkOrderVisa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Beställ VISA</Value>
+    </Setting>
+    <Setting Name="ChkExtraVisaKort" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Beställ VISA medkontohavare</Value>
+    </Setting>
+    <Setting Name="ecExtraVisa" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">29;Extra VISA</Value>
+    </Setting>
+    <Setting Name="IntBankMyndigFikt" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Internetbank Privat (SydID)&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="IntBankOmyndigFikt" Type="System.Collections.Specialized.StringCollection" Scope="Application">
+      <Value Profile="(Default)">&lt;?xml version="1.0" encoding="utf-16"?&gt;
+&lt;ArrayOfString xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"&gt;
+  &lt;string&gt;Internetbank Ung (SydID)&lt;/string&gt;
+&lt;/ArrayOfString&gt;</Value>
+    </Setting>
+    <Setting Name="ChkOrderTfnBankUng" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Upprätta Telefonbank Ung</Value>
+    </Setting>
+    <Setting Name="ChkOrderVisaOnline" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Beställ VISA Online</Value>
+    </Setting>
+    <Setting Name="saveMsg" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Den editerade informationen kommer att sparas i Excel, därefter kommer automatiskt skapande av valda produkter att påbörjas.
+
+OBS! Under denna process kommer datorns mus och tangentbord att vara låsta!
+
+Spara och stäng öppna dokument, kontrollera att Kerne är startad och tryck därefter på OK eller avbryt.</Value>
+    </Setting>
+    <Setting Name="unsavedData" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Du har data som inte har sparats. Vill du fortsätta stänga?</Value>
+    </Setting>
+    <Setting Name="unsavedDataNewPage" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Du har data som inte har sparats. Vill du fortsätta med ny sida?</Value>
+    </Setting>
+    <Setting Name="mustChooseAccount" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Du måste välja ett konto ovanför innan du kan välja ett medkontohavare.</Value>
+    </Setting>
+    <Setting Name="wrongPersnbr" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Felaktig personnummer</Value>
+    </Setting>
+    <Setting Name="ecUserNumberCtrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">21;Användarnummer</Value>
+    </Setting>
+    <Setting Name="ecDispRattCtrl1" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">7;Konto 1 Disprätt</Value>
+    </Setting>
+    <Setting Name="ecDispRattCtrl2" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">12;Konto 2 Disprätt</Value>
+    </Setting>
+    <Setting Name="ecDispRattCtrl3" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">17;Konto 3 Disprätt</Value>
+    </Setting>
+    <Setting Name="LblUserNumberCtrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Användarnummer</Value>
+    </Setting>
+    <Setting Name="LblDispRattCtrl" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">Dispositionsrätt</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

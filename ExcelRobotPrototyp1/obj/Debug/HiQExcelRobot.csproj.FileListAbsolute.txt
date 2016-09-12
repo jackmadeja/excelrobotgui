@@ -1,0 +1,13 @@
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\bin\Debug\HiQExcelRobot.exe.config
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\bin\Debug\HiQExcelRobot.exe.manifest
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\bin\Debug\HiQExcelRobot.application
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\bin\Debug\HiQExcelRobot.exe
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\bin\Debug\HiQExcelRobot.pdb
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.csprojResolveAssemblyReference.cache
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.FRobot.resources
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.Properties.Resources.resources
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.csproj.GenerateResource.Cache
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.exe.manifest
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.application
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.exe
+D:\Code\excelrobotgui\ExcelRobotPrototyp1\obj\Debug\HiQExcelRobot.pdb
